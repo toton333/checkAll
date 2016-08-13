@@ -5,7 +5,7 @@
 	</head>
 	<body>
    
-   <p>Select Everything : <input type="checkbox" id="selectAll"></p>
+   <p>Select all : <input type="checkbox" id="selectAll"></p>
    <p>
     Item 1: <input type="checkbox" class="children" value="item1">
     Item 2:<input type="checkbox" class="children" value="item2">
