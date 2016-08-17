@@ -12,6 +12,7 @@
     Item 3:<input type="checkbox" class="children" value="item3">
   </p>
   <p>Note: deployed via deployhq</p>
+  <p>Auto deploy</p>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script type="text/javascript" src="selector.js"></script>
